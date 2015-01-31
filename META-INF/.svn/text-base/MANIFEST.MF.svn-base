@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+HeldenPluginClass: pdf.HeldenStart.class
+Main-Class: pdf.HeldenStart.class
+Class-Path: itext.pdf
+

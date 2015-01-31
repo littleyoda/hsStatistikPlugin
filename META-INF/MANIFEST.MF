@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+HeldenPluginClass: statistikplugin.HeldenStart.class
+Main-Class: statistikplugin.HeldenStart.class
+

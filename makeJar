@@ -1,0 +1,3 @@
+cd bin
+jar cvmf ../META-INF/MANIFEST.MF ../statistikplugin.jar `find . -name '*class'`
+cd ..
